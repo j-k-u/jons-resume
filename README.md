@@ -6,7 +6,8 @@ Based on law student resume format from [UVic LCO](https://law-uvic.12twenty.com
 
 Template is free to use without attribution. 
 
-Dependencies: 
+## Dependencies 
+
 - A TeX distribution, e.g. [TeX Live](https://www.tug.org/texlive/) or [TinyTeX](https://yihui.org/tinytex/)
 - A text editor or IDE, e.g. [VSCodium](https://vscodium.com/) or [TeXStudio](https://www.texstudio.org/)
 - A LaTeX compiler or extension, e.g. [LaTeX Workshop](https://github.com/James-Yu/LaTeX-Workshop) or [TeXStudio](https://www.texstudio.org/)
@@ -24,3 +25,8 @@ TeX package requirements:
 - babel-english
 - txfonts
 - fontaxes
+
+
+## Preview
+
+![Example Resume Output](/resume.jpg)
