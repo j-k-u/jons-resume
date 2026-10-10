@@ -14,7 +14,7 @@ Template is free to use without attribution.
 
 Alternatively, you may use an online LaTeX editor, such as [LetX](https://letx.app/) or [Overleaf](https://www.overleaf.com/) **(recommended for less technical users)**
 
-TeX package requirements: 
+### TeX package requirements: 
 - titlesec
 - fullpage
 - preprint
@@ -26,6 +26,9 @@ TeX package requirements:
 - txfonts
 - fontaxes
 
+### Additional packages for cover letter:
+- graphics
+- grfext
 
 ## Preview
 
